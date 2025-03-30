@@ -38,7 +38,3 @@ The Home page is designed for a Gym and includes:
 ## Future Improvements
 - Add additional pages for gym membership details, booking classes, etc.
 - Implement further user validation and error messages on the Login page.
-
----
-
-You can replace the `link_to_screenshot_of_login_page` and `link_to_screenshot_of_home_page` with the actual links to your screenshots.
