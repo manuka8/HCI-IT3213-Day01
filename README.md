@@ -21,7 +21,7 @@ The Home page is designed for a Gym and includes:
 - **Cart Icon**: Displays a shopping cart icon for users to view items they wish to purchase.
 
 **Screenshot:**
-![Home Page](https://github.com/manuka8/HCI-IT3213-Day01/blob/c95aaec5ca1d6385a8467c3757a4c09c29472cea/home.png
+![Home Page](https://github.com/manuka8/HCI-IT3213-Day01/blob/c95aaec5ca1d6385a8467c3757a4c09c29472cea/home.png)
 
 ### Navigation Between Pages
 - Once a user successfully logs in on the Login page, they are redirected to the Home page.
